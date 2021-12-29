@@ -10,4 +10,5 @@ input {
 .main {
     width: 200px;
     border: 6px solid black;
+    background: blue;
 }
