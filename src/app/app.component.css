@@ -1,0 +1,13 @@
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+
+.main {
+    width: 200px;
+    border: 1px solid black;
+}
